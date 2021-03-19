@@ -1,2 +1,2 @@
-# wokle_kiosk
+#Kiosk
 Simple kiosk example using python
